@@ -1,6 +1,17 @@
-# Nuxt 3 Minimal Starter
+# Full Stack Ecommerce AliExpress clone. Nuxt 3 Vue js Tailwind CSS Supabase Prisma Netlify
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Créer un site Web de commerce électronique full-stack! 
+
+## Tech Stack
+
+**Client:** Nuxt 3, Vue.js, Tailwind CSS, 
+
+**database:** Supabase, Prisma 
+
+**Hebergeur:** Netlify
+
+**paiement :** Stripe
+
 
 ## Setup
 
@@ -10,14 +21,9 @@ Make sure to install the dependencies:
 # npm
 npm install
 
-# pnpm
-pnpm install
-
 # yarn
 yarn install
 
-# bun
-bun install
 ```
 
 ## Development Server
@@ -37,39 +43,3 @@ yarn dev
 # bun
 bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
