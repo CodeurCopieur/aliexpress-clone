@@ -11,6 +11,7 @@ export default defineNuxtConfig({
     }
   },
   devtools: { enabled: true },
+  ssr: true,
   pages: true,
   modules: [
     'nuxt-icon',
